@@ -6,6 +6,7 @@ on:
       - master
       - beta
       - release
+      - ci
       - auto
   pull_request: {}
   schedule:
